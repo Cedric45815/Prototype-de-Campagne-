@@ -1,0 +1,45 @@
+.titre{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tutoriel{
+    font-family: "Libre Franklin", sans-serif;
+    font-weight: 400;
+    text-align: center;
+    line-height: 1.5;
+    margin-top: 30px;
+    font-style: italic;
+}
+.center{
+    text-align: center;
+}
+
+input[type="text"], input[type="email"]{
+    padding: 11px 120px;
+}
+
+input[type="submit"]{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+textarea{
+    /* padding: 83px 280px; */
+    margin-left : 120px;
+    margin-top: 10px;
+}
+
+#Entreprise{
+    margin-top: 24px;
+}
+
+fieldset{
+    border: 1px solid black !important;
+    padding: 35px !important;
+}
